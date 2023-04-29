@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/WJCHumble/WJCHumble/blob/output/github-snake.gif?raw=true)
+![](https://raw.githubusercontent.com/alantu123/alantu123/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **alantu123/alantu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
