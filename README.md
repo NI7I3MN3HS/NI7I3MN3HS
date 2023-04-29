@@ -11,9 +11,11 @@
 
 ### Hi there 👋
 
+  <!-- 贪吃蛇 -->
 ![](https://raw.githubusercontent.com/alantu123/alantu123/main/assets/github-contribution-grid-snake.svg)
   
-  ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+  <!-- 访客计数 -->
+  ![Visitor Count](https://profile-counter.glitch.me/alantu123/count.svg)
 
 <!--
 **alantu123/alantu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
