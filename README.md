@@ -12,6 +12,8 @@
 ### Hi there 👋
 
 ![](https://raw.githubusercontent.com/alantu123/alantu123/main/assets/github-contribution-grid-snake.svg)
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 <!--
 **alantu123/alantu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
