@@ -4,12 +4,12 @@
 <a>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Enjoy your day!&center=true&size=27" alt="Typing SVG" />
   </a>
-    <div>
+      
     [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001667.7ae41ba7973b40fcb9c03db589f30d89.1645)](https://github.com/rayriffy/apple-music-github-profile)
     
-    <!-- 猫猫 -->
+   
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-    </div>
+    
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
