@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
   
   <!-- steam图片 -->
-  <img src="https://github-readme-steam-status.vercel.app/?steamid=<76561198263348924>"/>
+  <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198263348924"/>
 
 ### Hi there 👋
   
