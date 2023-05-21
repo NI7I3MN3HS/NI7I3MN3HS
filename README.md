@@ -16,7 +16,8 @@
   
   ### Steam
   <!-- steam图片 -->
-  <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198263348924"/>
+  <a href="https://steamcommunity.com/profiles/76561198263348924/" >
+  <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198263348924"/></a>
 
 ### Hi there 👋
   
