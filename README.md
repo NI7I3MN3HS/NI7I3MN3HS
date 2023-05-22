@@ -6,17 +6,19 @@
   </a>
       
   
-  </div>
-
-  <div>
+<td valign="top" width="50%">
     
    <!-- knock code pictures 敲代码的图片 -->
-  <img class="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="480" height="270"/>
+  <img  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="480" height="270"/>
+  
+  </td>
 
-  <img class="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="480" height="270" />
+  <td valign="top" width="50%">
+    
+  <img  alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="480" height="270" />
    
-  </div>
-
+  </td>
+    
   <div align="center">
 
 ### Steam
