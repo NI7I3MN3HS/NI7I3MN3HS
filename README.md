@@ -27,16 +27,7 @@
   <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198263348924"/>
   </a>
   
- <!-- steam-box start -->
-🎮 Steam playtime leaderboard
-```text
-🎮 Apex Legends                     🕘 638 hrs 41 mins
-🎮 Stellaris                        🕘 377 hrs 17 mins
-🚓 Grand Theft Auto V               🕘 192 hrs 32 mins
-💻 Wallpaper Engine                 🕘 153 hrs 7 mins
-🎮 ELDEN RING                       🕘 134 hrs 54 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box start -->
 <!-- steam-box end -->
  
 
