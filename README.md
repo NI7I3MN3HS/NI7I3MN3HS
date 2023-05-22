@@ -6,13 +6,13 @@
   </a>
       
     
-   
+   <!-- knock code pictures 敲代码的图片 -->
+  <img align=left src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
     
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <br>
   
   ### Steam
   <!-- steam图片 -->
