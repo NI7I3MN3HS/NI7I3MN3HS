@@ -28,7 +28,7 @@
   </a>
   
  <!-- steam-box start -->
-#### <a href="https://gist.github.com/fc8324018e7fc19c879e1c83f84fb320" target="_blank">🎮 Steam playtime leaderboard</a>
+🎮 Steam playtime leaderboard
 ```text
 🎮 Apex Legends                     🕘 638 hrs 41 mins
 🎮 Stellaris                        🕘 377 hrs 17 mins
