@@ -27,8 +27,7 @@
   <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198263348924"/>
   </a>
   
-   <!-- steam-box start -->
-  
+ <!-- steam-box start -->
  <!-- steam-box end -->
  
 
