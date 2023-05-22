@@ -40,7 +40,12 @@
 <!-- steam-box end -->
  
  <!-- waka-box start -->
- <!-- waka-box end -->
+📊 Weekly development breakdown
+```text
+Still Gathering Statistics...
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
 
 ### Hi there 👋
 
