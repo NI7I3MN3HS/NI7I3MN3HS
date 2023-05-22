@@ -1,37 +1,44 @@
   <div align="center">
+
   <!-- dynamic typing effect 动态打字效果 -->
-  
-  <div align="center">
-<a>
+  <a>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Enjoy your day!&center=true&size=27" alt="Typing SVG" />
   </a>
       
-   </div>
   
-  <div align="center">
+  </div>
+
+  <div>
     
    <!-- knock code pictures 敲代码的图片 -->
-  <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+  <img class="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="480" height="270"/>
+
+  <img class="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="480" height="270" />
    
   </div>
-  
-  ### Steam
+
+  <div align="center">
+
+### Steam
+
   <!-- steam图片 -->
   <a href="https://steamcommunity.com/profiles/76561198263348924/" >
-  <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198263348924"/></a>
+  <img src="https://github-readme-steam-status.vercel.app/?steamid=76561198263348924"/>
+  </a>
 
 ### Hi there 👋
-  
-  ### Music Playing
-  
+
+### Music Playing
+
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001667.7ae41ba7973b40fcb9c03db589f30d89.1645)](https://github.com/rayriffy/apple-music-github-profile)
 
   <!-- 贪吃蛇 -->
+
 ![](https://raw.githubusercontent.com/NI7I3MN3HS/NI7I3MN3HS/main/assets/github-contribution-grid-snake.svg)
-  
+
   <!-- 访客计数 -->
-  ![Visitor Count](https://profile-counter.glitch.me/NI7I3MN3HS/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/NI7I3MN3HS/count.svg)
 
 <!--
 **alantu123/alantu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +54,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  </div>
+</div>
+
+<style>
+  .left {
+    float: left;
+  }
+  .right {
+    float: right;
+  }
+
+</style>
