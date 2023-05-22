@@ -1,18 +1,20 @@
   <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
+  
   <div align="center">
 <a>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Enjoy your day!&center=true&size=27" alt="Typing SVG" />
   </a>
       
+   </div>
+  
+  <div align="center">
     
    <!-- knock code pictures 敲代码的图片 -->
-  <img align=left src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-    
+   
   </div>
-
-  <br>
   
   ### Steam
   <!-- steam图片 -->
