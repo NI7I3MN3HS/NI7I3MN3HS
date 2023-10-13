@@ -37,7 +37,7 @@
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 Apex Legends                     🕘 657 hrs 19 mins
+🎮 Apex Legends                     🕘 658 hrs 20 mins
 🎮 Stellaris                        🕘 377 hrs 17 mins
 🚓 Grand Theft Auto V               🕘 192 hrs 32 mins
 💻 Wallpaper Engine                 🕘 153 hrs 26 mins
