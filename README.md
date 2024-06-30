@@ -41,7 +41,7 @@
 🎮 Stellaris                        🕘 377 hrs 17 mins
 🚓 Grand Theft Auto V               🕘 235 hrs 1 mins
 💻 Wallpaper Engine                 🕘 153 hrs 31 mins
-🎮 ELDEN RING                       🕘 141 hrs 43 mins
+🎮 ELDEN RING                       🕘 142 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
