@@ -40,7 +40,7 @@
 🎮 Apex Legends                     🕘 674 hrs 31 mins
 🎮 Stellaris                        🕘 377 hrs 17 mins
 🚓 Grand Theft Auto V               🕘 235 hrs 1 mins
-🎮 ELDEN RING                       🕘 165 hrs 54 mins
+🎮 ELDEN RING                       🕘 166 hrs 55 mins
 💻 Wallpaper Engine                 🕘 153 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
